@@ -1,0 +1,7 @@
+H:\LTI Training\Specialisation\Day 3\SampleJenkinsSolution\SampleJenkinsProgram\bin\Debug\SampleJenkinsProgram.exe.config
+H:\LTI Training\Specialisation\Day 3\SampleJenkinsSolution\SampleJenkinsProgram\bin\Debug\SampleJenkinsProgram.exe
+H:\LTI Training\Specialisation\Day 3\SampleJenkinsSolution\SampleJenkinsProgram\bin\Debug\SampleJenkinsProgram.pdb
+H:\LTI Training\Specialisation\Day 3\SampleJenkinsSolution\SampleJenkinsProgram\obj\Debug\SampleJenkinsProgram.csprojAssemblyReference.cache
+H:\LTI Training\Specialisation\Day 3\SampleJenkinsSolution\SampleJenkinsProgram\obj\Debug\SampleJenkinsProgram.csproj.CoreCompileInputs.cache
+H:\LTI Training\Specialisation\Day 3\SampleJenkinsSolution\SampleJenkinsProgram\obj\Debug\SampleJenkinsProgram.exe
+H:\LTI Training\Specialisation\Day 3\SampleJenkinsSolution\SampleJenkinsProgram\obj\Debug\SampleJenkinsProgram.pdb
